@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+ #bg {
+      postion:absolute;
+      background-attachment: scroll;
+      background-repeat: no-repeat;
+      display:block;
+      height: 160%;
+      width: 100%;
+       
+         }
+
+
+</style>
+</head>
+</html>
