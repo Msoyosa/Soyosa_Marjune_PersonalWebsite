@@ -9,14 +9,19 @@ body {
 		p.main{
           text-align:justify;
            }
- #bg {
-    height: 100%;
-	width: 100%;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-         }
+		   
+		#bg {
+			height: 100%;
+			width: 100%;
+			background-attachment: fixed;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			}
+			
+		 .img-circle {
+    border-radius: 50%;
+		 }
 	.title {
              position:absolute; 
              width:33%; 
@@ -28,6 +33,7 @@ body {
              border:10px black;
              text-align:center;
          }
+		 
 		  .home {
     position:absolute;
 	left:18%;
