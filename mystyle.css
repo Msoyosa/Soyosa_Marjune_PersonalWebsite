@@ -1,6 +1,14 @@
 <html>
 <head>
 <style>
+body {
+    font-family:Matura MT Script Capitals;
+        
+         }
+		 
+		p.main{
+          text-align:justify;
+           }
  #bg {
     height: 100%;
 	width: 100%;
@@ -8,6 +16,17 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+         }
+	.title {
+             position:absolute; 
+             width:33%; 
+             height:80%; 
+             top:10%; 
+			 background-color: #e6e6e6;
+			 opacity: .8;
+             left:35%;
+             border:10px black;
+             text-align:center;
          }
 
 
