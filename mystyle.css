@@ -28,6 +28,21 @@ body {
              border:10px black;
              text-align:center;
          }
+		  .home {
+    position:absolute;
+	left:18%;
+    width:15%;
+	height: 5%;
+	letter-spacing:2px;
+	background-color:#e6e6e6;
+	opacity: .8;
+	font-weight:bold;
+	font-size: 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	top: 10%;
+    text-align:center;
+             
+         }
 
 
 </style>
