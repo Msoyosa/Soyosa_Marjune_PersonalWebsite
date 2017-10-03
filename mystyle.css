@@ -34,7 +34,13 @@ body {
 			margin-bottom: -30px;
 			padding-right: 10px;
 			padding-left: 10px;
-			}	
+			}
+		h5	{
+			color: #000000;
+			text-align: center;
+			padding-right: 30px;
+			padding-left: 20px;
+			}
 		   
 		#bg {
 			height: 100%;
